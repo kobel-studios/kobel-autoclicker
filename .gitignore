@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+config.json
+clicker_data.json
+benchmark_result.txt
+*.log
